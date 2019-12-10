@@ -13,5 +13,5 @@ Jeder überprüft die Themen der anderen und macht Verbesserungsvorschläge in F
 ## 31.12.2019
 Jeder hat seine Dokumente anhand der Verbesserungsvorschläge verbessert und aus seinen Dokumenten Präsentationsfolien erstellt.
 
-# 07.01.2020
+## 07.01.2020
 Vortrag halten
