@@ -71,7 +71,8 @@ und eine Rangordnung nach Schweregrad
 __Kill-Chain__
 
     
-Attacke als eine Kette von Aktionen
+-Attacke als eine Kette von Aktionen
+-mit diesem Model könen Mitarbeiter geschult werden, Attacken frühzeitig zu unterbrechen
 
 Sieben Schritte einer Attacke:
 
@@ -89,6 +90,9 @@ Schritt 6: Einrichten eines Kanals zur Kontrolle
 
 Schritt 7: Angreifer erreicht sein Ziel
 
+Bis zum Schritt 3 kann die Kill-Chain leicht unterbrochen werden, wie Abbildung zeigt. 
+Danach ist das Unterbrechen mit erhöhtem Aufwand und Kosten verbunden.
+
 
 ![alt text](Bilder/kill_chain.png "Logo Title Text 1")
      
@@ -97,7 +101,7 @@ Schritt 7: Angreifer erreicht sein Ziel
      
 __Attack Graph__
      
-  Angreifer hat mehrere Möglichkeiten zu attackieren
+-mit einem Attack Graph kann analysiert werden, auf welchen Wegen ein Ziel angegriffen werden kann
      
 ![alt text](Bilder/attack_graph.png "Logo Title Text 1")
      
